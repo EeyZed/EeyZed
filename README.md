@@ -13,7 +13,7 @@
 <h2> 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"></h2>
 
 <a target="_blank">
-   <img align="right" height="250" width= "280px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+   <img align="right" height="250" width= "280px" alt="GIF" src="https://cdn.discordapp.com/avatars/486436522107600897/5dcef3a5dc4469df14ea613e3f94fde3.webp" />
 </a>
 
 - 🔭 I’m currently working on a FiveM Server, stay tuned!
